@@ -1,5 +1,3 @@
----
+# Ecommerce Full Stack
 
-dengan ini
-
----
+ini adalah start dari ecoomerce full stack
